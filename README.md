@@ -1,10 +1,10 @@
-#  소개
-
 ## 프로젝트 소개
+#### 육아용품 중고거래 웹서비스 「맘스픽」 
+<div align=center>
+  <img src="readme_assets/logo.png" />
+</div>
 
-- 프로젝트명: 맘스픽(육아용품 중고거래 플랫폼)
-
-- 프로젝트 기간: 2023-10-10 ~ 2023-11-17
+- 프로젝트 기간 : 2023-10-10 ~ 2023-11-17 (7주, 6명)
 
 - 주요 기능
     - 사용자 위치 기반 중고 육아용품 거래 기능
@@ -14,24 +14,27 @@
 - 참조 리소스
     - 당근마켓
     - 맘맘
-  
+ 
+- 사용 기술
+    - Java
+    - Spring Boot
+    - FastAPI
+    - JPA
+    - QueryDsl
+    - ElasticSearch
+    - MySql
+    - Redis
+    - Next.js      
+<br>      
 
-## 맘스픽
-<div align=center>
-  <img src="readme_assets/logo.png" height="400" width="400" />
-  <h3>맘스픽 Logo</p>
-</div>
-
-## 화면 내용
+## 주요 기능
 |1-1. 로그인|1-2. 회원가입|
 |:---:|:---:|
 |![proc1-2](/readme_assets/C202%20시연%20시나리오_page-0001.jpg)|![proc1-3](/readme_assets/C202%20시연%20시나리오_page-0002.jpg)|
 
-
 |2. 메인페이지 |3. 검색 & 필터링|
 |:---:|:---:|
 |![proc4](/readme_assets/C202%20시연%20시나리오_page-0005.jpg)|![proc5](/readme_assets/C202%20시연%20시나리오_page-0006.jpg)|
-
 
 |4. 상세페이지|5. 채팅|
 |:---:|:---:|
@@ -44,98 +47,46 @@
 |7-1. 마이페이지|7-2. 마이페이지|
 |:---:|:---:|
 |![proc-end](/readme_assets/C202%20시연%20시나리오_page-0011.jpg)|![modal](/readme_assets/C202%20시연%20시나리오_page-0012.jpg)|
+<br>
 
-
-## 팀원 소개
-
+## 팀 구성 
 <table align="center">
     <tr align="center">
-        <td>
-            팀장/Backend/infra
+        <td><a href="https://github.com/wnsdlf925">
+            <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="100px" alt="wnsdlf925"/><br />
+            <sub><b>권준일</b></sub></a>
+            <br/> 팀장 / Backend / infra 💻
         </td>
-        <td>
-            Backend/infra
+        <td><a href="https://github.com/ji-hyon">
+            <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" alt="ji-hyon"/><br />
+            <sub><b>서지현</b></sub></a>  
+            <br /> Backend / infra 💻
         </td>
-        <td>
-            Backend/Data
+        <td><a href="https://github.com/jhy1812">
+            <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="100px" alt="jhy1812"/><br />
+            <sub><b>정호윤</b></sub></a>
+            <br /> Backend / Data 💻
         </td>
-        <td>
-            Frontend
+        <td><a href="https://github.com/JeBread">
+            <img src="https://avatars.githubusercontent.com/u/108921478?v=4" width="100px" alt="JeBread"/><br />
+            <sub><b>방상제</b></sub></a>
+            <br /> Frontend 💻
         </td>
-        <td>
-            Frontend
+        <td><a href="https://github.com/cjjss11">
+            <img src="https://avatars.githubusercontent.com/u/122518199?v=4" width="100px" alt="cjjss11"/><br />
+            <sub><b>최지수</b></sub></a>
+            <br /> Frontend 💻
         </td>
-        <td>
-            Frontend
-        </td>
-    </tr>
-    <tr align="center">
-     <td style="min-width: 150px;">
-            <a href="https://github.com/wnsdlf925">
-              <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="200">
-              <br />
-              <b>wnsdlf925</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/ji-hyon">
-              <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="200">
-              <br />
-              <b>ji-hyon</b>
-            </a>
-        </td>
-         <td style="min-width: 150px;">
-            <a href="https://github.com/jhy1812">
-              <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="200">
-              <br />
-              <b>jhy1812</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/JeBread">
-              <img src="https://avatars.githubusercontent.com/u/108921478?v=4" width="200">
-              <br />
-              <b>JeBread</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/cjjss11">
-              <img src="https://avatars.githubusercontent.com/u/122518199?v=4" width="200">
-              <br />
-              <b>cjjss11</b>
-            </a> 
-        </td>
-        <td style="min-width: 150px;">
-            <a href="https://github.com/ChoiCharles">
-              <img src="https://avatars.githubusercontent.com/u/122588654?v=4" width="200">
-              <br />
-              <b>ChoiCharles</b>
-            </a> 
-        </td>
-    </tr>
-    <tr align="center">
-        <td>
-            권준일
-        </td>
-        <td>
-            서지현
-        </td>
-        <td>
-            정호윤
-        </td>
-        <td>
-            방상제
-        </td>
-        <td>
-            최지수
-        </td>
-        <td>
-            최찬석
+        <td><a href="https://github.com/ChoiCharles">
+            <img src="https://avatars.githubusercontent.com/u/122588654?v=4" width="100px" alt="ChoiCharles"/><br />
+            <sub><b>최찬석</b></sub></a>
+            <br /> Frontend 💻
         </td>
     </tr>
 </table>
+<br>
 
-### 담당 업무  
+## 담당 업무  
 
 🙋🏻‍♂️ 권준일  
 
@@ -179,17 +130,4 @@
 - 카카오맵 API를 이용하여 주소관련 기능 구현 
 - 형상 관리 ( Jira ) 
 
-
-## 사용 기술  
-
-- Java
-- Spring Boot
-- FastAPI
-- JPA
-- QueryDsl
-- ElasticSearch
-- MySql
-- Redis
-- React
-- Next.js
  
