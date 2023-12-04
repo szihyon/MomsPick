@@ -45,14 +45,14 @@
 ```
 - Visual Studio Code, IntelliJ
 - Git, GitLab
-- Swagger
+- Figma
 - Jira
 - Notion
-- Mattermost
-- Figma
+- Swagger
 - AWS EC2
 - AWS S3
 - Jenkins
+- Mattermost
 ```
 
 #### 사용 기술
