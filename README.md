@@ -13,18 +13,7 @@
 
 - 참조 리소스
     - 당근마켓
-    - 맘맘
- 
-- 사용 기술
-    - Java
-    - Spring Boot
-    - FastAPI
-    - JPA
-    - QueryDsl
-    - ElasticSearch
-    - MySql
-    - Redis
-    - Next.js      
+    - 맘맘   
 <br>      
 
 ## 주요 기능
@@ -47,6 +36,22 @@
 |7-1. 마이페이지|7-2. 마이페이지|
 |:---:|:---:|
 |![proc-end](/readme_assets/C202%20시연%20시나리오_page-0011.jpg)|![modal](/readme_assets/C202%20시연%20시나리오_page-0012.jpg)|
+<br>
+
+## 주요 기술
+#### 사용 기술
+    - Java
+    - Spring Boot
+    - FastAPI
+    - JPA
+    - QueryDsl
+    - ElasticSearch
+    - MySql
+    - Redis
+    - Next.js
+#### 시스템 아키텍쳐
+![architecture](/readme_assets/architecture.png)
+
 <br>
 
 ## 팀 구성 
@@ -84,10 +89,8 @@
         </td>
     </tr>
 </table>
-<br>
 
-## 담당 업무  
-
+#### 담당 업무
 🙋🏻‍♂️ 권준일  
 
 - 데이터베이스 스키마 설계
