@@ -86,12 +86,12 @@
         <td><a href="https://github.com/wnsdlf925">
             <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="100px" height="100px" alt="wnsdlf925"/><br />
             <sub><b>권준일</b></sub></a>
-            <br/> Backend / infra 
+            <br/> Backend / Infra 
         </td>
         <td><a href="https://github.com/ji-hyon">
             <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" height="100px" alt="ji-hyon"/><br />
             <sub><b>서지현</b></sub></a>  
-            <br /> Backend / infra 
+            <br /> Backend / Infra 
         </td>
         <td><a href="https://github.com/jhy1812">
             <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="100px" height="100px"alt="jhy1812"/><br />
