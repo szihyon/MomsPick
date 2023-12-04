@@ -41,6 +41,7 @@
 
 ## 주요 기술
 #### 사용 툴
+```
 - Visual Studio Code, IntelliJ
 - Git, GitLab
 - Swagger
@@ -51,8 +52,10 @@
 - AWS EC2
 - AWS S3
 - Jenkins
+```
 
 #### 사용 기술
+```
 - Java 11
 - Spring Boot 2.7.17
 - Spring Security
@@ -68,7 +71,8 @@
 - Next.js 13.5.6
 - Zustand 
 - Tailwind CSS 
-- typescript 
+- typescript
+```
 
 #### 시스템 아키텍쳐
 ![architecture](/readme_assets/architecture.png)
@@ -79,79 +83,73 @@
 <table align="center">
     <tr align="center">
         <td><a href="https://github.com/wnsdlf925">
-            <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="100px" alt="wnsdlf925"/><br />
+            <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="100px" height="100px" alt="wnsdlf925"/><br />
             <sub><b>권준일</b></sub></a>
-            <br/> 팀장 / Backend / infra 💻
+            <br/> Backend / infra 
         </td>
         <td><a href="https://github.com/ji-hyon">
-            <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" alt="ji-hyon"/><br />
+            <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" height="100px" alt="ji-hyon"/><br />
             <sub><b>서지현</b></sub></a>  
-            <br /> Backend / infra 💻
+            <br /> Backend / infra 
         </td>
         <td><a href="https://github.com/jhy1812">
-            <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="100px" alt="jhy1812"/><br />
+            <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="100px" height="100px"alt="jhy1812"/><br />
             <sub><b>정호윤</b></sub></a>
-            <br /> Backend / Data 💻
+            <br /> Backend / Data  
         </td>
         <td><a href="https://github.com/JeBread">
-            <img src="https://avatars.githubusercontent.com/u/108921478?v=4" width="100px" alt="JeBread"/><br />
+            <img src="https://avatars.githubusercontent.com/u/108921478?v=4" width="100px" height="100px" alt="JeBread"/><br />
             <sub><b>방상제</b></sub></a>
-            <br /> Frontend 💻
+            <br /> Frontend 
         </td>
         <td><a href="https://github.com/cjjss11">
-            <img src="https://avatars.githubusercontent.com/u/122518199?v=4" width="100px" alt="cjjss11"/><br />
+            <img src="https://avatars.githubusercontent.com/u/122518199?v=4" width="100px" height="100px" alt="cjjss11"/><br />
             <sub><b>최지수</b></sub></a>
-            <br /> Frontend 💻
+            <br /> Frontend 
         </td>
         <td><a href="https://github.com/ChoiCharles">
-            <img src="https://avatars.githubusercontent.com/u/122588654?v=4" width="100px" alt="ChoiCharles"/><br />
+            <img src="https://avatars.githubusercontent.com/u/122588654?v=4" width="100px" height="100px" alt="ChoiCharles"/><br />
             <sub><b>최찬석</b></sub></a>
-            <br /> Frontend 💻
+            <br /> Frontend 
         </td>
     </tr>
 </table>
 
 #### 담당 업무
-🙋🏻‍♂️ 권준일  
-
-- 데이터베이스 스키마 설계
-- CI/CD를 위한 젠킨스 파이프라인 구축
-- 배포를 위한 인프라 구축
-- 아기관련 API 개발
-- 사용자 위치를 기반으로 거리별 물품 목록 조회 기능 개발
-- ElasticSearch를 이용하여 검색 기능 개발
+```
+- 권준일 🙋🏻‍♂️  
+  - 데이터베이스 스키마 설계
+  - 젠킨스를 활용한 CI/CD 구축
+  - 아기 정보 API 개발
+  - 사용자 위치 기반 물품 목록 조회 기능 개발
+  - ElasticSearch를 이용한 검색 기능 개발
   
-🙋🏻‍♂️ 서지현 
+- 서지현 🙋
+  - 데이터베이스 스키마 설계
+  - 인프라 초기 환경 설정 
+  - 회원 도메인 기능 구현 (회원 가입, 로그인, 프로필 관리, 유저 간 상호 평가 등)
+  - WebSocket을 활용한 실시간 채팅 기능 구현
 
-- 데이터베이스 스키마 설계
-- 배포를 위한 인프라 구축
-- 회원 도메인 기능 구현 (회원 가입, 로그인, 프로필 관리, 유저 간 상호 평가 등)
-- WebSocket을 활용한 실시간 채팅 기능 구현
+- 정호윤 🙋🏻‍♂️ 
+  - 데이터베이스 스키마 설계
+  - FastAPI를 활용한 추천 기능 개발
+  - 육아 정보 기능 구현
+  - 거래 도메인 기능 구현
 
-🙋🏻‍♂️ 정호윤  
+- 방상제 🙋🏻‍♂️ 
+  - Figma 화면 설계 및 제작 
+  - Zustand 상태 관리 
+  - 거래 관련 기능 개발
 
-- 데이터베이스 스키마 설계
-- 추천기능 개발
-- 데이터 처리
-- 게시판 API 개발
+- 최지수 🙋
+  - Figma 화면 설계 및 제작 
+  - 회원가입 페이지 구현
+  - 마이페이지 구현
+  - 육아 정보 페이지 구현 
 
-🙋🏻‍♂️ 방상제  
-
-- Figma 화면 설계 및 제작 ( 거래 화면, 검색 및 필터링 페이지, 판매글 상세 페이지 )
-- Zustand 상태 관리 
-- 판매글 관련 기능 개발
-
-🙋🏻‍♂️ 최지수  
-
-- 회원가입 페이지 구현
-- 마이페이지 구현
-- 아기정보관련 공공API를 이용하여 정보 페이지 구현 
-
-🙋🏻‍♂️ 최찬석  
-
-- 거리 변경 페이지 제작
-- 주소 설정기능 구현
-- 카카오맵 API를 이용하여 주소관련 기능 구현 
-- 형상 관리 ( Jira ) 
-
- 
+- 최찬석 🙋🏻‍♂️   
+  - Figma 화면 설계 및 제작 
+  - 카카오맵 API를 활용한 지도 기능 구현
+  - 채팅 관련 페이지 구현
+  - 회원 관련 기능 개발 
+```
