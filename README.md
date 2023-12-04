@@ -39,16 +39,36 @@
 <br>
 
 ## 주요 기술
+#### 사용 툴
+- Visual Studio Code, IntelliJ
+- Git, GitLab
+- Swagger
+- Jira
+- Notion
+- Mattermost
+- Figma
+- AWS EC2
+- AWS S3
+- Jenkins
+
 #### 사용 기술
-    - Java
-    - Spring Boot
-    - FastAPI
-    - JPA
-    - QueryDsl
-    - ElasticSearch
-    - MySql
-    - Redis
-    - Next.js
+- Java 11
+- Spring Boot 2.7.17
+- Spring Security
+- WebSocket
+- FastAPI
+- JPA
+- QueryDsl 
+- ElasticSearch
+- MySql 8.0.34
+- Redis 3.0.504
+- React 18
+- Node.js 18.17.1
+- Next.js 13.5.6
+- Zustand 
+- Tailwind CSS 
+- typescript 
+
 #### 시스템 아키텍쳐
 ![architecture](/readme_assets/architecture.png)
 
