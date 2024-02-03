@@ -22,8 +22,8 @@
             <sub><b>권준일</b></sub></a>
             <br/> Backend / Infra 
         </td>
-        <td><a href="https://github.com/ji-hyon">
-            <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" height="100px" alt="ji-hyon"/><br />
+        <td><a href="https://github.com/szihyon">
+            <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" height="100px" alt="szihyon"/><br />
             <sub><b>서지현</b></sub></a>  
             <br /> Backend / Infra 
         </td>
