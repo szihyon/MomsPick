@@ -105,7 +105,7 @@
 - Next.js 13.5.6
 - Zustand 
 - Tailwind CSS 
-- typescript
+- Typescript
 ```
 
 #### 시스템 아키텍쳐
