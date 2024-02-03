@@ -20,17 +20,17 @@
         <td><a href="https://github.com/wnsdlf925">
             <img src="https://avatars.githubusercontent.com/u/62425882?v=4" width="100px" height="100px" alt="wnsdlf925"/><br />
             <sub><b>권준일</b></sub></a>
-            <br/> Backend / Infra 
+            <br/> Backend & CI/CD 
         </td>
         <td><a href="https://github.com/szihyon">
             <img src="https://avatars.githubusercontent.com/u/120673992?v=4" width="100px" height="100px" alt="szihyon"/><br />
             <sub><b>서지현</b></sub></a>  
-            <br /> Backend / Infra 
+            <br /> Backend & CI/CD
         </td>
         <td><a href="https://github.com/jhy1812">
             <img src="https://avatars.githubusercontent.com/u/122588619?v=4" width="100px" height="100px"alt="jhy1812"/><br />
             <sub><b>정호윤</b></sub></a>
-            <br /> Backend / Data  
+            <br /> Backend & Data  
         </td>
         <td><a href="https://github.com/JeBread">
             <img src="https://avatars.githubusercontent.com/u/108921478?v=4" width="100px" height="100px" alt="JeBread"/><br />
