@@ -73,6 +73,9 @@
 |![proc-end](/readme_assets/C202%20시연%20시나리오_page-0011.jpg)|![modal](/readme_assets/C202%20시연%20시나리오_page-0012.jpg)|
 <br>
 
+## 시스템 아키텍쳐 ⚙
+![architecture](/readme_assets/architecture.png)
+
 ## 주요 기술 🛠
 #### 사용 툴
 ```
@@ -87,7 +90,6 @@
 - Jenkins
 - Mattermost
 ```
-
 #### 사용 기술
 ```
 - Java 11
@@ -107,9 +109,6 @@
 - Tailwind CSS 
 - Typescript
 ```
-
-#### 시스템 아키텍쳐
-![architecture](/readme_assets/architecture.png)
 
 <br>
 
